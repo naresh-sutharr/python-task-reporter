@@ -1,0 +1,37 @@
+{
+  "generated_at_utc": "2026-10-25T09:14:05.876196+00:00",
+  "api_mode": "mock",
+  "total_tasks": 3,
+  "results": [
+    {
+      "task_id": 1,
+      "result": {
+        "input": "Summarize customer feedback about a mobile app",
+        "word_count": 7,
+        "character_count": 46,
+        "summary": "Task contains 7 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 2,
+      "result": {
+        "input": "Classify support tickets by urgency",
+        "word_count": 5,
+        "character_count": 35,
+        "summary": "Task contains 5 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 3,
+      "result": {
+        "input": "Extract key topics from hackathon project notes",
+        "word_count": 7,
+        "character_count": 47,
+        "summary": "Task contains 7 words.",
+        "status": "mock_api_success"
+      }
+    }
+  ]
+}
