@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "task": "Summarize customer feedback about a mobile app"
+  },
+  {
+    "id": 2,
+    "task": "Classify support tickets by urgency"
+  },
+  {
+    "id": 3,
+    "task": "Extract key topics from hackathon project notes"
+  }
+]
