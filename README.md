@@ -58,10 +58,19 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
+## Running Tests
+
+To verify all components:
+
+```bash
+python -m unittest tests/test_main.py
+```
+
 ## Evidence for the skill check
 - Python source: `main.py`
-- Sample data: `sample_input.json`
+- Sample data: `sample_input.json` and `data/benchmark_tasks.json`
 - Dependency list: `requirements.txt`
+- Unit tests: `tests/test_main.py`
 - Mock API: `mock_api()` in `main.py`
 - Output files: generated under `output/` after running the command
 

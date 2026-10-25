@@ -1,35 +1,305 @@
 {
-  "generated_at_utc": "2026-10-25T09:14:05.876196+00:00",
+  "generated_at_utc": "2026-10-25T09:40:07.511871+00:00",
   "api_mode": "mock",
-  "total_tasks": 3,
+  "total_tasks": 30,
   "results": [
     {
       "task_id": 1,
       "result": {
-        "input": "Summarize customer feedback about a mobile app",
-        "word_count": 7,
-        "character_count": 46,
-        "summary": "Task contains 7 words.",
+        "input": "Summarize customer feedback regarding mobile application checkout latency and error handling.",
+        "word_count": 11,
+        "character_count": 93,
+        "summary": "Task contains 11 words.",
         "status": "mock_api_success"
       }
     },
     {
       "task_id": 2,
       "result": {
-        "input": "Classify support tickets by urgency",
-        "word_count": 5,
-        "character_count": 35,
-        "summary": "Task contains 5 words.",
+        "input": "Extract actionable priorities from quarterly engineering retrospective and incident reviews.",
+        "word_count": 10,
+        "character_count": 92,
+        "summary": "Task contains 10 words.",
         "status": "mock_api_success"
       }
     },
     {
       "task_id": 3,
       "result": {
-        "input": "Extract key topics from hackathon project notes",
-        "word_count": 7,
-        "character_count": 47,
-        "summary": "Task contains 7 words.",
+        "input": "Classify incoming support tickets based on severity and departmental routing tags.",
+        "word_count": 11,
+        "character_count": 82,
+        "summary": "Task contains 11 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 4,
+      "result": {
+        "input": "Generate a concise overview of user onboarding completion rates across recent releases.",
+        "word_count": 12,
+        "character_count": 87,
+        "summary": "Task contains 12 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 5,
+      "result": {
+        "input": "Analyze customer sentiment for newly launched dark mode interface features.",
+        "word_count": 10,
+        "character_count": 75,
+        "summary": "Task contains 10 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 6,
+      "result": {
+        "input": "Identify common keywords in feature request forum submissions for cloud backup integration.",
+        "word_count": 12,
+        "character_count": 91,
+        "summary": "Task contains 12 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 7,
+      "result": {
+        "input": "Structure unstructured error logs into categorized JSON records for monitoring dashboards.",
+        "word_count": 11,
+        "character_count": 90,
+        "summary": "Task contains 11 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 8,
+      "result": {
+        "input": "Draft release notes highlighting bug fixes and performance improvements in version 2.4.",
+        "word_count": 12,
+        "character_count": 87,
+        "summary": "Task contains 12 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 9,
+      "result": {
+        "input": "Summarize key architectural takeaways from the microservices migration design document.",
+        "word_count": 10,
+        "character_count": 87,
+        "summary": "Task contains 10 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 10,
+      "result": {
+        "input": "Review security audit recommendations and draft remediation task list for web endpoints.",
+        "word_count": 12,
+        "character_count": 88,
+        "summary": "Task contains 12 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 11,
+      "result": {
+        "input": "Extract product feature requirements from customer interview transcripts and survey results.",
+        "word_count": 11,
+        "character_count": 92,
+        "summary": "Task contains 11 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 12,
+      "result": {
+        "input": "Parse API payload schema definitions and generate corresponding Python dataclass models.",
+        "word_count": 11,
+        "character_count": 88,
+        "summary": "Task contains 11 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 13,
+      "result": {
+        "input": "Generate human-readable summaries of automated test pipeline failure patterns.",
+        "word_count": 9,
+        "character_count": 78,
+        "summary": "Task contains 9 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 14,
+      "result": {
+        "input": "Classify search query intents for technical documentation to improve internal search relevance.",
+        "word_count": 12,
+        "character_count": 95,
+        "summary": "Task contains 12 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 15,
+      "result": {
+        "input": "Aggregate performance metrics across multiple staging cluster load testing sessions.",
+        "word_count": 10,
+        "character_count": 84,
+        "summary": "Task contains 10 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 16,
+      "result": {
+        "input": "Create executive briefing notes from detailed quarterly cloud infrastructure cost breakdowns.",
+        "word_count": 11,
+        "character_count": 93,
+        "summary": "Task contains 11 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 17,
+      "result": {
+        "input": "Audit third-party dependencies for licensing compliance and deprecated package usage.",
+        "word_count": 10,
+        "character_count": 85,
+        "summary": "Task contains 10 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 18,
+      "result": {
+        "input": "Analyze database query execution plans to identify candidate slow queries for indexing.",
+        "word_count": 12,
+        "character_count": 87,
+        "summary": "Task contains 12 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 19,
+      "result": {
+        "input": "Extract customer sentiment trends from social media mentions following the product launch event.",
+        "word_count": 13,
+        "character_count": 96,
+        "summary": "Task contains 13 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 20,
+      "result": {
+        "input": "Synthesize feedback from beta testers regarding developer documentation clarity and code samples.",
+        "word_count": 12,
+        "character_count": 97,
+        "summary": "Task contains 12 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 21,
+      "result": {
+        "input": "Verify adherence of incoming pull requests to defined style guidelines and typing standards.",
+        "word_count": 13,
+        "character_count": 92,
+        "summary": "Task contains 13 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 22,
+      "result": {
+        "input": "Generate structured changelog entries based on merged Git pull request descriptions.",
+        "word_count": 11,
+        "character_count": 84,
+        "summary": "Task contains 11 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 23,
+      "result": {
+        "input": "Classify telemetry events to identify high-traffic API routes requiring rate limiting adjustments.",
+        "word_count": 12,
+        "character_count": 98,
+        "summary": "Task contains 12 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 24,
+      "result": {
+        "input": "Summarize weekly sprint achievements and road block status for cross-functional stakeholders.",
+        "word_count": 11,
+        "character_count": 93,
+        "summary": "Task contains 11 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 25,
+      "result": {
+        "input": "Extract entity relationships from unstructured business contracts and partnership agreements.",
+        "word_count": 10,
+        "character_count": 93,
+        "summary": "Task contains 10 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 26,
+      "result": {
+        "input": "Convert legacy XML configuration files to standardized, validated JSON format.",
+        "word_count": 10,
+        "character_count": 78,
+        "summary": "Task contains 10 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 27,
+      "result": {
+        "input": "Draft automated response suggestions for high-frequency user onboarding queries.",
+        "word_count": 9,
+        "character_count": 80,
+        "summary": "Task contains 9 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 28,
+      "result": {
+        "input": "Identify recurring regression bug themes across recent continuous integration test builds.",
+        "word_count": 11,
+        "character_count": 90,
+        "summary": "Task contains 11 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 29,
+      "result": {
+        "input": "Generate descriptive alt-text metadata suggestions for dashboard visualization charts.",
+        "word_count": 9,
+        "character_count": 86,
+        "summary": "Task contains 9 words.",
+        "status": "mock_api_success"
+      }
+    },
+    {
+      "task_id": 30,
+      "result": {
+        "input": "Analyze notification delivery failure rates and group by provider error response codes.",
+        "word_count": 12,
+        "character_count": 87,
+        "summary": "Task contains 12 words.",
         "status": "mock_api_success"
       }
     }
